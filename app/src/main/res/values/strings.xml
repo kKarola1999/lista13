@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lista13</string>
+    <string name="name_app">COVID API</string>
+    <string name="buttonAdd">ADD DATA FOR COUNTRY</string>
+    <string name="buttonShow">SHOW EXISTING DATA</string>
+    <string name="buttonStats">GET STATS</string>
+    <string name="addData">ADD COVID DATA</string>
+    <string name="btnAdd">ADD DATA</string>
+    <string name="textCovid">COVID STATS</string>
+
+
+</resources>
